@@ -1,0 +1,188 @@
+/* checkout */
+
+/* logo section */
+#columnMerchantLogo {
+    background-color: #ffffff;
+}
+
+#columnMerchantLogo p {
+    color: #00421b;
+    padding: 1.3rem;
+    font-weight: bold;
+}
+
+#orderDetails #orderTitle {
+    color: #ffde02;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #00421b !important;
+    margin-bottom: -0rem !important;
+}
+
+#order {
+    text-align: center;
+    border-bottom: 2px solid #b9b9b9;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #00421b !important;
+}
+
+#order #orderID {
+    color: #ffffff;
+}
+
+#orderLists #orderVal {
+    text-align: left!important;
+    color: #ffffff;
+}
+#orderLists #orderAmt {
+    text-align: right!important;
+    color: #ffffff;
+}
+
+.orderCurrency {
+    color: #ffde02;
+    font-size: 11px;
+}
+
+element.style {
+    color: #ffde02!important;
+    font-weight: normal;
+}
+
+.orderCurrency {
+    color: #fdfdfc;
+    font-size: 11px;
+}
+
+#QRCode {
+    text-align: left;
+    padding-top: 7px;
+    background-color: #00421b !important;
+    margin-top: -0.2rem !important;
+}
+
+#QrTitle {
+    color: #ffde02;
+    font-weight: 900;
+    font-size: 12px;
+    margin-top: 23px;
+}
+
+#QrDescription {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.nav-tabs li {
+    /* border-bottom: 2px solid #D5D5D5; */
+    opacity: 10;
+}
+
+.nav-tabs > li > a {
+    border-bottom: 1px solid #ffde02;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: #00421b!important;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.nav-tabs > li > a::after {
+    background: #00421b !important;
+}
+
+#EazzyTitle {
+    color: #ffde02;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+#EazzyInstructions li {
+    color: #00421b;
+    font-size: 14px;
+    text-align: left;
+    padding: 2px;
+}
+
+.dynamicVal {
+    color: #ffde02!important;
+    font-weight: normal;
+}
+
+.EazzyRefNum input {
+    background-color: #00421b;
+}
+
+.form-control {
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    }
+
+  .bankingApp {
+    font-size: 14px;
+    color: #ffde02;
+    font-weight: bold;
+}
+
+.footerBTNReturn {
+    float: left;
+    text-transform: uppercase;
+    /* opacity: 0.72; */
+    background-color: #00421b;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+    display: inline-block;
+    cursor: pointer;
+    color: #fff;
+    font-family: Arial;
+    font-size: 11px;
+    padding: 6px 24px;
+    text-decoration: none;
+}
+
+.footerBTNConfirm {
+    float: right;
+    text-transform: uppercase;
+    background-color: #00421b;
+    border: none;
+    /* border: 1px solid #F49920; */
+    display: inline-block;
+    cursor: pointer;
+    color: #ffde02;
+    font-family: Arial;
+    font-size: 11px;
+    padding: 6px 24px;
+    text-decoration: none;
+    /* background-color: #F49920; */
+    /* border: 1px solid #F49920; */
+}
+
+#eazzy-checkout-iframe {
+    height: 80vh;
+    left: 40rem;
+    margin: 0 auto;
+    position: fixed;
+    top: 9vh;
+    width: 70%;
+}
+
+#EazzyBtns {
+    position: absolute;
+    margin-top: -15rem;
+}
+/* end */
+/* header section */
+#miniTitle {
+    background-color: #ffde02;
+    color: #00421b;
+    padding: 7px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.9rem;
+}
+/* end */
